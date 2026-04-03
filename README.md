@@ -9,11 +9,12 @@
 <p align="center">
   <a href="https://oralsight.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-oralsight.vercel.app-brightgreen?style=for-the-badge" /></a>
   <a href="https://github.com/visionbyangelic/Oral-Sight-V1"><img src="https://img.shields.io/badge/Notebook%20Author-Angelic%20Charles-blue?style=for-the-badge" /></a>
-  <a href="https://github.com/Zeepaks/Dental-ai-screening-nigeria-Oral-Sight"><img src="https://img.shields.io/badge/Collaborator-Ayomide%20Zaccheaus-orange?style=for-the-badge" /></a>
+  <a href="https://github.com/Zeepaps/Dental-ai-screening-nigeria-Oral-Sight"><img src="https://img.shields.io/badge/Collaborator-Ayomide%20Zaccheaus-orange?style=for-the-badge" /></a>
   <img src="https://img.shields.io/badge/Model-MobileNetV2-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Accuracy-65%25-red?style=for-the-badge" />
   <a href="https://nerdyalgorithm-oralscan-model.hf.space"><img src="https://img.shields.io/badge/HuggingFace-oralscan--model-yellow?style=for-the-badge&logo=huggingface" /></a>
 </p>
+
 
 ---
 
@@ -299,8 +300,9 @@ Kaggle: [visionbyangelic](https://www.kaggle.com/visionbyangelic)
 ORCID: [0009-0008-7279-9663](https://orcid.org/0009-0008-7279-9663)
 
 **Ayomide Zaccheaus** *(Collaborator)*  
-GitHub: [@zeepaks](https://github.com/zeepaks)  
-Independent Notebook: [Dental-ai-screening-nigeria-Oral-Sight](https://github.com/Zeepaks/Dental-ai-screening-nigeria-Oral-Sight)
+GitHub: [@zeepaps](https://github.com/zeepaps)  
+ORCID: [0009-0004-0488-172X](https://orcid.org/0009-0004-0488-172X)
+Independent Notebook: [Dental-ai-screening-nigeria-Oral-Sight](https://github.com/Zeepaps/Dental-ai-screening-nigeria-Oral-Sight)
 
 ---
 
@@ -317,5 +319,5 @@ https://github.com/visionbyangelic/OralSight
 ---
 
 <p align="center">
-  Built with 🦷 by <a href="https://github.com/visionbyangelic">Angelic Charles</a> & <a href="https://github.com/zeepaks">Ayomide Zaccheaus</a>
+  Built with 🦷 by <a href="https://github.com/visionbyangelic">Angelic Charles</a> & <a href="https://github.com/zeepaps">Ayomide Zaccheaus</a>
 </p>
