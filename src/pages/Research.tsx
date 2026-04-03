@@ -28,7 +28,7 @@ const Research = () => (
           <div className="glass-card p-8 mb-8">
             <h3 className="font-semibold text-lg mb-4">Abstract</h3>
             <p className="text-sm text-muted-foreground leading-relaxed">
-              Dental health remains a critical yet underserved aspect of healthcare in low-resource settings, particularly in Nigeria. This study presents Oral Sight, an AI-powered dental image screening prototype that evaluates the feasibility of lightweight convolutional neural network (CNN) architectures for classifying oral health conditions from patient-uploaded images. Three models were trained and compared on a publicly available oral lesions dataset (n=261): a custom baseline CNN, MobileNetV2, and ResNet50. MobileNetV2 achieved the highest macro F1-score of 0.54, demonstrating its superior trade-off between accuracy and computational efficiency for low-resource deployment.
+              Dental health remains a critical yet underserved aspect of healthcare in low-resource settings, particularly in Nigeria. This study presents Oral Sight, an AI-powered dental image screening prototype that evaluates the feasibility of lightweight convolutional neural network (CNN) architectures for classifying oral health conditions from patient-uploaded images. Three models were trained and compared on a publicly available oral lesions dataset (n=261): a custom baseline CNN, MobileNetV2, and ResNet50. MobileNetV2 achieved the highest macro F1-score of 0.63, demonstrating its superior trade-off between accuracy and computational efficiency for low-resource deployment.
             </p>
           </div>
 
