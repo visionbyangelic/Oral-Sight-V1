@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://oralsight.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-oralsight.vercel.app-brightgreen?style=for-the-badge" /></a>
+  <a href="https://oral-sight-v1.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-oralsight.vercel.app-brightgreen?style=for-the-badge" /></a>
   <a href="https://github.com/visionbyangelic/Oral-Sight-V1"><img src="https://img.shields.io/badge/Notebook%20Author-Angelic%20Charles-blue?style=for-the-badge" /></a>
   <a href="https://github.com/Zeepaps/Dental-ai-screening-nigeria-Oral-Sight"><img src="https://img.shields.io/badge/Collaborator-Ayomide%20Zaccheaus-orange?style=for-the-badge" /></a>
   <img src="https://img.shields.io/badge/Model-MobileNetV2-purple?style=for-the-badge" />
@@ -24,7 +24,7 @@
 
 This project was independently implemented by two authors to verify reproducibility of results across different environments and workflows. Both versions converge to the same accuracy ceiling, confirming the findings are data-constrained rather than implementation-dependent.
 
-> **Live Demo:** [oralsight.vercel.app](https://oralsight.vercel.app/)  
+> **Live Demo:** [oralsight.vercel.app](https://oral-sight-v1.vercel.app/)  
 > **Backend API:** [NerdyAlgorithm/oralscan-model on HuggingFace Spaces](https://huggingface.co/spaces/NerdyAlgorithm/oralscan-model)
 
 ---
