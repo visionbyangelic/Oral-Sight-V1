@@ -313,7 +313,7 @@ If you use OralSight or reference this work, please cite:
 ```
 Charles, A. & Zaccheaus, A. (2026). OralSight: AI-Powered Oral Lesion Screening
 using MobileNetV2 Transfer Learning. GitHub.
-https://github.com/visionbyangelic/OralSight
+https://github.com/visionbyangelic/Oral-Sight-V1
 ```
 
 ---
