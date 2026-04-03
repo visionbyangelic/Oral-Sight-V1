@@ -22,7 +22,7 @@ const Research = () => (
               <span className="text-foreground font-medium">Data Raiders</span> · DataraFlow Internship Programme · February 2026
             </p>
             <p className="text-sm text-muted-foreground">Supervisor: Winner Emeto, DataraFlow</p>
-            <p className="text-sm text-muted-foreground">Supervisor: Winner Emeto, DataraFlow</p>
+            <p className="text-sm text-muted-foreground">Team Leader: Angelic Charles, DataraFlow</p>
           </div>
 
           <div className="glass-card p-8 mb-8">
@@ -36,7 +36,7 @@ const Research = () => (
             {[
               { icon: Database, label: "Dataset", value: "261 samples", desc: "Oral lesions dataset" },
               { icon: Cpu, label: "Best Model", value: "MobileNetV2", desc: "Highest F1-score" },
-              { icon: BarChart3, label: "F1-Score", value: "0.54 macro", desc: "On held-out test set" },
+              { icon: BarChart3, label: "F1-Score", value: "0.63 macro", desc: "On held-out test set" },
             ].map((s) => (
               <div key={s.label} className="glass-card p-5 text-center">
                 <s.icon className="h-5 w-5 text-primary mx-auto mb-2" />
