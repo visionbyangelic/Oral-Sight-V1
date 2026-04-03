@@ -1,7 +1,7 @@
 # 🦷 OralSight — AI Oral Lesion Screening
 
 <p align="center">
-  <img src="public/placeholder.svg" alt="OralSight Banner" width="100%" />
+  <img src="public/favicon.ico" alt="OralSight Banner" width="100%" />
 </p>
 
 <p align="center">
