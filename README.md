@@ -1,17 +1,18 @@
+
+
 # 🦷 OralSight — AI Oral Lesion Screening
 
 <p align="center">
-  <img src="public/favicon.ico" alt="OralSight Banner" width="100%" />
+  <img src="public/favicon.ico" alt="OralSight Logo" width="80" />
 </p>
 
 <p align="center">
   <a href="https://oralsight.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-oralsight.vercel.app-brightgreen?style=for-the-badge" /></a>
-  <a href="https://github.com/visionbyangelic/OralSight"><img src="https://img.shields.io/badge/Notebook%20Author-Angelic%20Charles-blue?style=for-the-badge" /></a>
+  <a href="https://github.com/visionbyangelic/Oral-Sight-V1"><img src="https://img.shields.io/badge/Notebook%20Author-Angelic%20Charles-blue?style=for-the-badge" /></a>
   <a href="https://github.com/Zeepaks/Dental-ai-screening-nigeria-Oral-Sight"><img src="https://img.shields.io/badge/Collaborator-Ayomide%20Zaccheaus-orange?style=for-the-badge" /></a>
   <img src="https://img.shields.io/badge/Model-MobileNetV2-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Accuracy-65%25-red?style=for-the-badge" />
-
-  Hugging face;https://nerdyalgorithm-oralscan-model.hf.space
+  <a href="https://nerdyalgorithm-oralscan-model.hf.space"><img src="https://img.shields.io/badge/HuggingFace-oralscan--model-yellow?style=for-the-badge&logo=huggingface" /></a>
 </p>
 
 ---
