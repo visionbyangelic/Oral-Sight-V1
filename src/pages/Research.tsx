@@ -22,7 +22,7 @@ const Research = () => (
               <span className="text-foreground font-medium">Data Raiders</span> · DataraFlow Internship Programme · February 2026
             </p>
             <p className="text-sm text-muted-foreground">Supervisor: Winner Emeto, DataraFlow</p>
-            <p className="text-sm text-muted-foreground">Team Leader: Angelic Charles, DataraFlow</p>
+            <p className="text-sm text-muted-foreground">Team Leader: Angelic Charles, DataRaiders</p>
           </div>
 
           <div className="glass-card p-8 mb-8">
