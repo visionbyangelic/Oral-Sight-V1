@@ -295,14 +295,16 @@ OralSight/
 
 **Angelic Charles** *(Notebook Author)*  
 Data Scientist | ML Engineer | Research Contributor  
-GitHub: [@visionbyangelic](https://github.com/visionbyangelic)  
-Kaggle: [visionbyangelic](https://www.kaggle.com/visionbyangelic)  
-ORCID: [0009-0008-7279-9663](https://orcid.org/0009-0008-7279-9663)
+- GitHub: [@visionbyangelic](https://github.com/visionbyangelic)  
+- Kaggle: [visionbyangelic](https://www.kaggle.com/visionbyangelic)  
+- ORCID: [0009-0008-7279-9663](https://orcid.org/0009-0008-7279-9663)
 
 **Ayomide Zaccheaus** *(Collaborator)*  
-GitHub: [@zeepaps](https://github.com/zeepaps)  
-ORCID: [0009-0004-0488-172X](https://orcid.org/0009-0004-0488-172X)
-Independent Notebook: [Dental-ai-screening-nigeria-Oral-Sight](https://github.com/Zeepaps/Dental-ai-screening-nigeria-Oral-Sight)
+- Independent Notebook: [Dental-ai-screening-nigeria-Oral-Sight](https://github.com/Zeepaps/Dental-ai-screening-nigeria-Oral-Sight)
+- GitHub: [@zeepaps](https://github.com/zeepaps)  
+- ORCID: [0009-0004-0488-172X](https://orcid.org/0009-0004-0488-172X)
+
+
 
 ---
 
