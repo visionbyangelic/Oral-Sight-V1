@@ -6,7 +6,7 @@ import Footer from "@/components/Footer";
 const teamMembers = [
   {
     name: "Ayomide Zaccheaus",
-    role: "Project Owner & ML Engineer",
+    role: "ML Engineer",
     contribution: "Model architecture, training & project lead",
     github: "https://github.com/Zeepaps",
   },
