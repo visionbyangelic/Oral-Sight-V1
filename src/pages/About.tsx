@@ -111,7 +111,7 @@ const About = () => (
               This work addresses the critical gap in accessible dental AI tools for African populations, where oral pigmentation, dietary habits, and disease presentation may differ significantly from Western training datasets. The goal is to empower patients and clinicians with early screening capabilities using nothing more than a smartphone camera.
             </p>
             <a
-              href="https://github.com/Zeepaps/Dental-ai-screening-nigeria-Oral-Sight/tree/main"
+              href="https://github.com/visionbyangelic/Oral-Sight-V1/tree/main"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-4 py-2 rounded-lg bg-muted border border-border hover:border-primary/40 transition-colors text-sm font-medium"
